@@ -1,0 +1,9 @@
+.custom-button {
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: salmon;
+    color: purple;
+}
